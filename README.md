@@ -1,5 +1,5 @@
 # TSAI--S6
-Codes to show the L1 and L2 Regularisation along with its Loss and Accuracy Graph
+Codes to show the L1 and L2 Regularisation along with the MisClassified Images and its Loss and Accuracy Graph
 
 ![L1 MisClassification-Training](https://user-images.githubusercontent.com/48143413/75295278-58489080-5850-11ea-9485-a921a34152ab.png)
 
